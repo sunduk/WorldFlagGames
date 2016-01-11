@@ -1,0 +1,2068 @@
+fileFormatVersion: 2
+guid: 49cd4d9c94f220e4ab5b261435f85d8f
+timeCreated: 1448981045
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LCA-ST.LUCIA
+    21300002: TUR-TURKEY
+    21300004: BOT-BOTSWANA
+    21300006: VEN-VENEZUELA
+    21300008: ARG-ARGENTINA
+    21300010: KUW-KUWAIT
+    21300012: ITA-ITALY
+    21300014: LAO-LAOS
+    21300016: PER-PERU
+    21300018: LIECHTENSTEIN
+    21300020: LUX-LUXEMBOURG
+    21300022: EGY-EGYPT
+    21300024: LBA-LIBYA
+    21300026: MAR-MOROCCO
+    21300028: CHA-CHAD
+    21300030: URU-URUGUAY
+    21300032: TUN-TUNISIA
+    21300034: NGR-NIGERIA
+    21300036: AFG-AFGHANISTAN
+    21300038: GUA-GUATEMALA
+    21300040: UGA-UGANDA
+    21300042: GRE-GREECE
+    21300044: TAN-TANZANIA
+    21300046: AUT-AUSTRIA
+    21300048: JOR-JORDAN
+    21300050: ESA-ELSALVADOR
+    21300052: JAM-JAMAICA
+    21300054: GBS-GUINEABISSAU
+    21300056: SKN-NEVIS
+    21300058: BIZ-BELIZE
+    21300060: VAN-VANUATU
+    21300062: USA-UNITED STATES
+    21300064: FIJ-FIJI
+    21300066: SEN-SENEGAL
+    21300068: NIG-NIGER
+    21300070: TRI-TRINIDAD AND TOBAGO
+    21300072: CMR-CAMEROON
+    21300074: PAR-PARAGUAY
+    21300076: SRI-SRI LANKA
+    21300078: HUN-HUNGARY
+    21300080: TGA-TONGA
+    21300082: MOZAMBIQUE
+    21300084: POR-PORTUGAL
+    21300086: TKM-TURKMENISTAN
+    21300088: LAT-LATVIA
+    21300090: NCA-NICARAGUA
+    21300092: KSA-SAUDI
+    21300094: ERI-ERITREA
+    21300096: ISL-ICELAND
+    21300098: SVK-SLOVAKIA
+    21300100: LES-LESOTHO
+    21300102: MDA-MOLDOVA
+    21300104: ANT-ANTIGUAAND BARBUDA
+    21300106: MON-MONACO
+    21300108: TOG-TOGO
+    21300110: ZAM-ZAMBIA
+    21300112: MAY0MYANMAR
+    21300114: FSM-MICRONESIA
+    21300116: SUD-SUDAN
+    21300118: FIN-FINLAND
+    21300120: CRC-COSTA RICA
+    21300122: CUB-CUBA
+    21300124: OMA-OMAN
+    21300126: SWE-SWEDEN
+    21300128: DJI-DJIIBOUTI
+    21300130: PNG-PAPUANEW GUINEA
+    21300132: BLR-BELARUS
+    21300134: CIV-COTE D' IVOIRE
+    21300136: KOR-KOREA
+    21300138: SUI-SWITZERLAND
+    21300140: COL-COLOMBIA
+    21300142: MDV-MALDIVES
+    21300144: YEM-YEMEN
+    21300146: NEP-NEPAL
+    21300148: NAM-NAMIBIA
+    21300150: IND-INDIA
+    21300152: ISR-ISRAEL
+    21300154: GUI-GUINEA
+    21300156: RSA-SOUTH AFRICA
+    21300158: ANG-ANGOLA
+    21300160: QAT-QATAR
+    21300162: ARM-ARMENIA
+    21300164: BUR-BURKINA FASO
+    21300166: STP-PRINCIPE
+    21300168: EST-ESTONIA
+    21300170: IRQ-IRAQ
+    21300172: ALG-ALGERIA
+    21300174: GUY-GUYANA
+    21300176: PHI-PHILIPPINES
+    21300178: NZL-NEW_ZEALAND
+    21300180: MAW-MALAWI
+    21300182: BIH-BOSNIA AND HERZEGOVINA
+    21300184: SOL-SOLOMONLSLANDS
+    21300186: MKD-MACEDONIA
+    21300188: COM-COMOROS
+    21300190: HAI-HAITI
+    21300192: CZE-CZECH
+    21300194: NOR-NORWAY
+    21300196: SWZ-SWAZILAND
+    21300198: SAM-SAMOA
+    21300200: PAN-PANAMA
+    21300202: GER-GERMANY
+    21300204: UZB-UZBEKISTAN
+    21300206: ESP-SPAIN
+    21300208: IRI-IRAN
+    21300210: MAD-MADAGASCAR
+    21300212: SEY-SEYCHELLES
+    21300214: DOM-DOMINICAN REPUBLIC
+    21300216: KEN-KENYA
+    21300218: SUR-SURINAM
+    21300220: MLI-MALI
+    21300222: THA-THAILAND
+    21300224: CAN-CANADA
+    21300226: RUS-RUSSIA
+    21300228: NED-NETHERLANDS
+    21300230: MAS-MALAYSIA
+    21300232: GBR-UNITED KINGDOM
+    21300234: ZIM-ZIMBABWE
+    21300236: BOL-BOLIVIA
+    21300238: HON-HONDURAS
+    21300240: CHN-CHINA
+    21300242: ECU-ECUADOR
+    21300244: UAE-UNITED ARAB EMIRATES
+    21300246: COD-DEMOCRATIC REPUBLIC OF THE CONGO
+    21300248: CAM-CAMBODIA
+    21300250: MRI-MAURITIUS
+    21300252: CYP-CYPRUS
+    21300254: KGZ-KYRGYZSTAN
+    21300256: ETH-ETHIOPIA
+    21300258: ROM-ROMANIA
+    21300260: GEQ-EQUATORIALGUINEA
+    21300262: PRK-NORTH KOREA
+    21300264: CHI-CHILE
+    21300266: FRA-FRANCE
+    21300268: GAM-GAMBIA
+    21300270: INA-INDONESIA
+    21300272: GRN-GRENADA
+    21300274: SOM-SOMALIA
+    21300276: TPE-TAIWAN
+    21300278: JPN-JAPAN
+    21300280: BAH-BAHAMAS
+    21300282: DEN-DENMAK
+    21300284: SLO-SLOVENIANA
+    21300286: BEL-BELGIUM
+    21300288: NRU-NAURU
+    21300290: BRU-BRUNEI
+    21300292: LBR-LIBERIA
+    21300294: CGO-CONGO
+    21300296: POL-POLAND
+    21300298: BRN-BAHRAIN
+    21300300: KAZ-KAZAKHSTAN
+    21300302: LIB-LEBANON
+    21300304: ROM-RWANDA
+    21300306: MGL-MONGOLIA
+    21300308: VIE-VIET NAM
+    21300310: BEN-BENIN
+    21300312: UKR-UKRAINE
+    21300314: AND-ANDORRA
+    21300316: MNT-MAURITANIA
+    21300318: GAB-GABON
+    21300320: MEX-MEXICO
+    21300322: CPV-CAPE VERDE
+    21300324: BDI-BURUNDI
+    21300326: ALB-ALBANIA
+    21300328: IRL-IRELAND
+    21300330: SYR-SYRIA
+    21300332: MLT-MALTA
+    21300334: BRA-BRAZIL
+    21300336: SLE-SIERRA LEONE
+    21300338: BAR-BARBADOS
+    21300340: LTU-LITHUANIA
+    21300342: BHU-BHUTAN
+    21300344: BAN-BANGLADESH
+    21300346: PAK-PAKISTAN
+    21300348: SMR-SAN MARINO
+    21300350: VIN-GRENADINES
+    21300352: AUS-AUSTRALIA
+    21300354: BUL-BULGARIA
+    21300356: GHA-GHANA
+    21300358: CAF-CENTRAL AFRICAN REPUBLIC
+    21300360: SIN-SINGAPORE
+    21300362: CRO-CROATIA
+    21300364: PLW-PALAU
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: LCA-ST.LUCIA
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TUR-TURKEY
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BOT-BOTSWANA
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VEN-VENEZUELA
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ARG-ARGENTINA
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KUW-KUWAIT
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 325
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ITA-ITALY
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LAO-LAOS
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 455
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PER-PERU
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LIECHTENSTEIN
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 585
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LUX-LUXEMBOURG
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EGY-EGYPT
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 715
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LBA-LIBYA
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MAR-MOROCCO
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 845
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CHA-CHAD
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 910
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: URU-URUGUAY
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TUN-TUNISIA
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 65
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NGR-NIGERIA
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 130
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AFG-AFGHANISTAN
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 195
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUA-GUATEMALA
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 260
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UGA-UGANDA
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 325
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GRE-GREECE
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 390
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TAN-TANZANIA
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 455
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AUT-AUSTRIA
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 520
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JOR-JORDAN
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 585
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ESA-ELSALVADOR
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 650
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JAM-JAMAICA
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 715
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBS-GUINEABISSAU
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 780
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SKN-NEVIS
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 845
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BIZ-BELIZE
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 910
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VAN-VANUATU
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: USA-UNITED STATES
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 65
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FIJ-FIJI
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 130
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SEN-SENEGAL
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 195
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NIG-NIGER
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 260
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TRI-TRINIDAD AND TOBAGO
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 325
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CMR-CAMEROON
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 390
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PAR-PARAGUAY
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 455
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SRI-SRI LANKA
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 520
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HUN-HUNGARY
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 585
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TGA-TONGA
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 650
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MOZAMBIQUE
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 715
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: POR-PORTUGAL
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 780
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TKM-TURKMENISTAN
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 845
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LAT-LATVIA
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 910
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NCA-NICARAGUA
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KSA-SAUDI
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 65
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ERI-ERITREA
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 130
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ISL-ICELAND
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 195
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SVK-SLOVAKIA
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 260
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LES-LESOTHO
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 325
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MDA-MOLDOVA
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 390
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ANT-ANTIGUAAND BARBUDA
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 455
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MON-MONACO
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 520
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TOG-TOGO
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 585
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZAM-ZAMBIA
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 650
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MAY0MYANMAR
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 715
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FSM-MICRONESIA
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 780
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SUD-SUDAN
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 845
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FIN-FINLAND
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 910
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CRC-COSTA RICA
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CUB-CUBA
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 65
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OMA-OMAN
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 130
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SWE-SWEDEN
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 195
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DJI-DJIIBOUTI
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 260
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PNG-PAPUANEW GUINEA
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 325
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BLR-BELARUS
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 390
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CIV-COTE D' IVOIRE
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 455
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KOR-KOREA
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 520
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SUI-SWITZERLAND
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 585
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COL-COLOMBIA
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 650
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MDV-MALDIVES
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 715
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YEM-YEMEN
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 780
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NEP-NEPAL
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 845
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NAM-NAMIBIA
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 910
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IND-INDIA
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ISR-ISRAEL
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 65
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI-GUINEA
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 130
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RSA-SOUTH AFRICA
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 195
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ANG-ANGOLA
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 260
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: QAT-QATAR
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 325
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ARM-ARMENIA
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 390
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BUR-BURKINA FASO
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 455
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: STP-PRINCIPE
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 520
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EST-ESTONIA
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 585
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IRQ-IRAQ
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 650
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ALG-ALGERIA
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 715
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUY-GUYANA
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 780
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PHI-PHILIPPINES
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 845
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NZL-NEW_ZEALAND
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 910
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MAW-MALAWI
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BIH-BOSNIA AND HERZEGOVINA
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SOL-SOLOMONLSLANDS
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MKD-MACEDONIA
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COM-COMOROS
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAI-HAITI
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CZE-CZECH
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NOR-NORWAY
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SWZ-SWAZILAND
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SAM-SAMOA
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PAN-PANAMA
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GER-GERMANY
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UZB-UZBEKISTAN
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ESP-SPAIN
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IRI-IRAN
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 0
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MAD-MADAGASCAR
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 65
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SEY-SEYCHELLES
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 130
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DOM-DOMINICAN REPUBLIC
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 195
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KEN-KENYA
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 260
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SUR-SURINAM
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 325
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MLI-MALI
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 390
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: THA-THAILAND
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 455
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAN-CANADA
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 520
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RUS-RUSSIA
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 585
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NED-NETHERLANDS
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 650
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MAS-MALAYSIA
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 715
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GBR-UNITED KINGDOM
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 780
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZIM-ZIMBABWE
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 845
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BOL-BOLIVIA
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 910
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HON-HONDURAS
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 65
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CHN-CHINA
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 65
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ECU-ECUADOR
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 65
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UAE-UNITED ARAB EMIRATES
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 65
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COD-DEMOCRATIC REPUBLIC OF THE CONGO
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 65
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAM-CAMBODIA
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 65
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MRI-MAURITIUS
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 65
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CYP-CYPRUS
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 65
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KGZ-KYRGYZSTAN
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 65
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ETH-ETHIOPIA
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 65
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ROM-ROMANIA
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 65
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GEQ-EQUATORIALGUINEA
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 65
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PRK-NORTH KOREA
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 65
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CHI-CHILE
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 65
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FRA-FRANCE
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 130
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GAM-GAMBIA
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 195
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INA-INDONESIA
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 260
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GRN-GRENADA
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 325
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SOM-SOMALIA
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 390
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TPE-TAIWAN
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 455
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JPN-JAPAN
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 520
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BAH-BAHAMAS
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 585
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DEN-DENMAK
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 650
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SLO-SLOVENIANA
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 715
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BEL-BELGIUM
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 780
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NRU-NAURU
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 845
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BRU-BRUNEI
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 910
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LBR-LIBERIA
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 130
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CGO-CONGO
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 130
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: POL-POLAND
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 130
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BRN-BAHRAIN
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 130
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KAZ-KAZAKHSTAN
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 130
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LIB-LEBANON
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 130
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ROM-RWANDA
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 130
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MGL-MONGOLIA
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 130
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VIE-VIET NAM
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 130
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BEN-BENIN
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 130
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UKR-UKRAINE
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 130
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AND-ANDORRA
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 130
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MNT-MAURITANIA
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 130
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GAB-GABON
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 195
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MEX-MEXICO
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 260
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CPV-CAPE VERDE
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 325
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BDI-BURUNDI
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 390
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ALB-ALBANIA
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 455
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IRL-IRELAND
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 520
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYR-SYRIA
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 585
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MLT-MALTA
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 650
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BRA-BRAZIL
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 715
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SLE-SIERRA LEONE
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 780
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BAR-BARBADOS
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 845
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LTU-LITHUANIA
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 910
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BHU-BHUTAN
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 195
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BAN-BANGLADESH
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 195
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PAK-PAKISTAN
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 195
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SMR-SAN MARINO
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 195
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VIN-GRENADINES
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 195
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AUS-AUSTRALIA
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 195
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BUL-BULGARIA
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 195
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GHA-GHANA
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 195
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAF-CENTRAL AFRICAN REPUBLIC
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 195
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SIN-SINGAPORE
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 195
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CRO-CROATIA
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 195
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PLW-PALAU
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 195
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
